@@ -33,5 +33,5 @@ In future enhancements, the dataset can be expanded by importing large, real-wor
 To summarize, this spam detection project offers a practical understanding of the end-to-end machine learning workflow — from data preparation and model training to prediction and evaluation. It is an excellent hands-on introduction to NLP (Natural Language Processing), classification tasks, and the use of scikit-learn for building predictive models.
 
 #OUTPUT
-
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/5c75397b-f9ed-40c2-9652-539bca6d7001" />
 
